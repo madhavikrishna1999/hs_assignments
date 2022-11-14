@@ -1,0 +1,25 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+body {
+    background-color: #d0e3e3;
+    color: rgb(200, 21, 134);
+    padding: 0px 20%;
+}
+
+ #container a {
+    /* background-color: blueviolet; */
+    color: rgb(62, 49, 49);
+    font-size: 30px;
+    text-decoration: none;
+    padding: 5px 20px;
+ }
+ #container a:hover {
+    /* text-decoration: none;
+    padding: 5px 20px; */
+    background-color: rgb(77, 99, 103);
+}
+ul {
+    color: rgb(90, 64, 39);
+} 
+
